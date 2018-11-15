@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[HomeController.cs](./CS/DXWebApplication1/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/DXWebApplication1/Controllers/HomeController.vb))**
+* [Index.cshtml](./CS/DXWebApplication1/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # How to load a gauge control layout from an XML file and display it in an MVC application
 
 
