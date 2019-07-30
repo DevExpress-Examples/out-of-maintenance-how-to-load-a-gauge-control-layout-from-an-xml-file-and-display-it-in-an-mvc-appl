@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to load a gauge control layout from an XML file and display it in an MVC application
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2976)**
+**[[Run Online]](https://codecentral.devexpress.com/e2976/)**
 <!-- run online end -->
 
 
